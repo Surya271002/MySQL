@@ -1,2 +1,2 @@
 # MySQL
-This repository contains a cleaned dataset of layoffs, curated for use in data analysis, visualization, and machine learning projects. The dataset has been prepared to ensure consistency and ease of use, with unnecessary data removed and relevant fields standardized.
+Welcome to MySQL project, where I showcase hands-on projects demonstrating my expertise in data cleaning and exploratory data analysis (EDA). In the Data Cleaning, I performed essential data cleaning tasks such as handling missing values, removing duplicates, and standardizing data for analysis. In the EDA, I conducted exploratory data analysis to uncover patterns, trends, and insights that drive informed business decisions.
